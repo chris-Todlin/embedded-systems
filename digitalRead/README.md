@@ -31,6 +31,17 @@ The Digital Read module is designed to:
 3. Input is evaluated for state changes or specific conditions
 4. Action is triggered based on input state (e.g., LED on/off)
 
+## Circuit Simulation Screenshots
+
+### Circuit Diagram
+![Digital Read Circuit](./images/digitalreadcircuit.png)
+
+### Button State - HIGH (Pressed)
+![Button HIGH State](./images/digitalreadHIGHstate.png)
+
+### Button State - LOW (Not Pressed)
+![Button LOW State](./images/digitalreadLOWstate.png)
+
 ## Usage
 
 ### In Proteus:
