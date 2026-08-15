@@ -1,0 +1,10 @@
+# Arduino build artifacts
+build/
+bin/
+layout/
+
+# Proteus backup and temporary files
+*.pwi
+*.PWI
+*.bak
+*.BAK
