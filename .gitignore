@@ -8,3 +8,5 @@ layout/
 *.PWI
 *.bak
 *.BAK
+*.workspace
+**/Project Backups/
