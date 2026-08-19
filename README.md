@@ -84,10 +84,6 @@ Arduino_Proteus_Projects/
 - Project backups are stored in respective `Project Backups/` directories
 - Proteus workspace files (.workspace) are included for development continuity
 
-## License
-
-[Add your license here]
-
 ## Contact
 
 For questions or suggestions, feel free to open an issue or contact the project maintainer.
