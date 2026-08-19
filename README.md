@@ -16,7 +16,13 @@ Learning and experimenting with Arduino basics through Proteus simulation. This 
 - Basic digital I/O operations
 - Proteus simulation implementation
 
-### 3. **lightblink**
+### 3. **button**
+- Push-button input reading with `digitalRead()`
+- LED control with `digitalWrite()`
+- Demonstrates digital pin input and output behavior
+- Includes manual and Arduino Proteus simulations
+
+### 4. **lightblink**
 - Simple LED blinking patterns
 - Multiple variations including:
   - Basic LED blinking
@@ -24,19 +30,19 @@ Learning and experimenting with Arduino basics through Proteus simulation. This 
   - ADC-based blinking
 - Fundamental timing and output control
 
-### 4. **blinkwithoutdelay**
+### 5. **blinkwithoutdelay**
 - LED blinking without using `delay()`
 - Non-blocking timing based on `millis()`
 - Demonstrates timer logic and state changes
 - Useful for responsive Arduino control systems
 
-### 5. **fade**
+### 6. **fade**
 - LED brightness fading using PWM
 - Manual analog input control and automatic fade patterns
 - Demonstrates `analogRead()` and `analogWrite()`
 - Includes both sensor-based and timed fading examples
 
-### 6. **lcd_ldr**
+### 7. **lcd_ldr**
 - LCD display integration
 - Light Dependent Resistor (LDR) sensor reading
 - Analog sensor measurement and display
@@ -63,6 +69,7 @@ Learning and experimenting with Arduino basics through Proteus simulation. This 
 Arduino_Proteus_Projects/
 ├── AnalogueReadSerial/      # Analog input reading projects
 ├── blinkwithoutdelay/       # Non-blocking LED timing examples
+├── button/                  # Push-button input and LED output
 ├── digitalRead/             # Digital input projects
 ├── fade/                    # PWM fade and brightness control
 ├── lightblink/              # LED control projects
